@@ -15,5 +15,7 @@
 - 
 ## 💼 Projects & Achievements
 - Awareness form 
+- Mayor's solar and security hub 
+- mayor's calculator 
 
 
