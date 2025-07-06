@@ -11,6 +11,7 @@
 - Python | Django
 - Git | GitHub
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning & Building
+- awareness form 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+
