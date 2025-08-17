@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abiodun Joshua mayowa 
 
-🎓 I’m a 200 level student physics department  
+🎓 I’m a 300 level student physics department  
 💻 I love working with python, react.js
 
 📫 Reach me: joshuamayowa907@gmail.com
