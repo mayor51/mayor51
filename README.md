@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abiodun Joshua mayowa 
+# Hi there 👋, I'm  mayowa 
 
 🎓 I’m a 300 level student physics department  
 💻 I love working with python, react.js
