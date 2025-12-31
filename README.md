@@ -8,6 +8,7 @@
 ## 🚀 Skills
 - HTML | CSS | JavaScript
 - React.js | Next.js
+- bootstrap|
 - Python | Django
 - Git | GitHub
 
