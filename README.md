@@ -1,6 +1,6 @@
 # Hi there 👋, I'm  mayor 
 
-🎓 I have a physics student 
+🎓 bsc physics 
 💻 I love working with python, react.js
 
 📫 Reach me: joshuamayowa907@gmail.com
