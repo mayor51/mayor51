@@ -13,12 +13,10 @@
 - Git | GitHub
 
 ## 🌱 Currently Learning & Building
-- 
+- cyber security 
 ## 💼 Projects & Achievements
 - Awareness form 
 - Mayor's solar and security hub 
 - mayor's calculator 
 - logintech page
 
-## interest
-- cyber security 
