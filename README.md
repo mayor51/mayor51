@@ -7,7 +7,7 @@
 
 ## 🚀 Skills
 - HTML | CSS | JavaScript
-- React.js | Next.js
+- React.js | 
 - react-bootstrap|
 - Python | Django
 - Git | GitHub
@@ -20,3 +20,5 @@
 - mayor's calculator 
 - logintech page
 
+## interest
+- cyber security 
