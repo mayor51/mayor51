@@ -1,4 +1,4 @@
-# Hi there 👋, I'm  mayor 
+# Hi 👋, I'm  Mayowa Abiodun 
 
 🎓 bsc physics 
 💻 I love working with python, react.js
@@ -19,4 +19,5 @@
 - Mayor's solar and security hub 
 - mayor's calculator 
 - logintech page
+- my portfolio 
 
